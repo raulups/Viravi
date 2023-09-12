@@ -1,6 +1,6 @@
 # TFGViravi
 Trabajo de Fin de Grado de Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. 
-Autore: Raúl Arribas Canalejo.
+Autor: Raúl Arribas Canalejo.
 Centro Educativo: Innovación en Formación Profesional.
 ## Aplicación Móvil
 Red Social de Eventos.
