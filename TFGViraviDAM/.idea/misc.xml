@@ -1,0 +1,82 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_birthday.xml" value="0.30932971014492755" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_mail.xml" value="0.33" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_name.xml" value="0.33" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_pass_login.xml" value="0.30932971014492755" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_password.xml" value="0.33" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_phone.xml" value="0.25" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_profile.xml" value="0.30932971014492755" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_user_login.xml" value="0.30932971014492755" />
+        <entry key="..\:/TFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_username.xml" value="0.33" />
+        <entry key="..\:/Users/Alumno/Desktop/Nueva carpeta/app/src/main/res/drawable/rounded_button.xml" value="0.1875" />
+        <entry key="..\:/Users/Alumno/Desktop/Nueva carpeta/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Alumno/Desktop/Nueva carpeta/app/src/main/res/layout/fragment_name.xml" value="0.33" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/fragment_birthday.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/fragment_mail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/fragment_name.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/fragment_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/fragment_phone.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Desktop/app/src/main/res/layout/fragment_username.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_app.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_new_event.xml" value="0.33" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_splash.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_viravi.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/bottom_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/chat_user_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_add_chat_java.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_birthday.xml" value="0.33" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_category_events.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_chat_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_event_detaill.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_explore.xml" value="0.2382838283828383" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_mail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_name.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_pass_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_phone.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_photo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_user_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_username.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/message_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/reveiver_message_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/sender_message_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/user_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/viewholder_category.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/viewholder_eventos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/viewholder_eventos_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Alumno/Documents/GitHub/TFGViravi/TFGViraviDAM/app/src/main/res/layout/welcome_message_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_app.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_birthday.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_mail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_name.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_phone.xml" value="0.36666666666666664" />
+        <entry key="..\:/Victor/GitHubTFG/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_username.xml" value="0.36666666666666664" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_app.xml" value="0.2391304347826087" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_login.xml" value="0.2391304347826087" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/activity_register.xml" value="0.2391304347826087" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_name.xml" value="0.2391304347826087" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_password.xml" value="0.2391304347826087" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_user_login.xml" value="0.21693840579710144" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/layout/fragment_username.xml" value="0.21693840579710144" />
+        <entry key="..\:/tfg/TFGViravi/TFGViraviDAM/app/src/main/res/menu/bottom_nav.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_login"
+    app:startDestination="@id/userLoginFragment">
+
+    <fragment
+        android:id="@+id/userLoginFragment"
+        android:name="com.example.tfgviravidam.features.app.ui.fragments.UserLoginFragment"
+        android:label="fragment_user_login"
+        tools:layout="@layout/fragment_user_login" >
+        <action
+            android:id="@+id/action_userLoginFragment_to_passLoginFragment"
+            app:destination="@id/passLoginFragment"
+            app:enterAnim="@anim/to_rigth"
+            app:exitAnim="@anim/to_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/passLoginFragment"
+        android:name="com.example.tfgviravidam.features.app.ui.fragments.PassLoginFragment"
+        android:label="fragment_pass_login"
+        tools:layout="@layout/fragment_pass_login" />
+</navigation>

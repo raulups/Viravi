@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "803860358754",
+    "firebase_url": "https://tfgviravi-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tfgviravi",
+    "storage_bucket": "tfgviravi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803860358754:android:b4d57eb710c55b4bcbd33b",
+        "android_client_info": {
+          "package_name": "com.example.tfgviravi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803860358754-vc0ji988n26uksp63a93ajq77a0qmtrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGS5hXAT09CTueAq3p6OVFb6MJU_eosU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803860358754-vc0ji988n26uksp63a93ajq77a0qmtrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803860358754:android:81ab0840ebb48eafcbd33b",
+        "android_client_info": {
+          "package_name": "com.example.tfgviravidam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803860358754-vc0ji988n26uksp63a93ajq77a0qmtrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNGS5hXAT09CTueAq3p6OVFb6MJU_eosU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803860358754-vc0ji988n26uksp63a93ajq77a0qmtrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
